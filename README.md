@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HqAlloyBoy aka Michel
+- 👋 Hi, I’m @HqAlloyBoy aka Michel Doornink
 - 👀 I’m interested in coding in general, Ai in general, creative coding, sound design, Web3/Blockchain 
 - 🌱 I’m currently learning Python in general, HTML & CSS, Processing (Python Mode)
 - 💞️ I’m looking to collaborate on creative projects and skill sharing
